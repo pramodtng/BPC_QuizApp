@@ -1,0 +1,405 @@
+[
+  {
+    "id": 1,
+    "title": "History Quiz",
+    "description": "Questions are designed to test the history of the Hydro Power.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "When was Jangsa Mini Hydel, Paro commissioned?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "1968",
+            "isCorrect": true
+          },
+          {
+            "text": "1966",
+            "isCorrect": false
+          },
+          {
+            "text": "1969",
+            "isCorrect": false
+          },
+          {
+            "text": "1967",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which of the following is the oldest Mini Hydel in the country?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Gidakom Mini Hydel, Thimphu",
+            "isCorrect": false
+          },
+          {
+            "text": "Gangzur Mini Hydel, Lhuntse",
+            "isCorrect": false
+          },
+          {
+            "text": "Jungshina Mini Hydel, Thimphu",
+            "isCorrect": true
+          },
+          {
+            "text": "Chendepji Mini Hydel, Trongsa",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The first mega hydro plant was constructed in which Dzongkhag?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Monggar",
+            "isCorrect": false
+          },
+          {
+            "text": "Wangdue Phodrang",
+            "isCorrect": false
+          },
+          {
+            "text": "Chhukha",
+            "isCorrect": true
+          },
+          {
+            "text": "Chhukha",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is the name of the first mega hydropower plant in Bhutan?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Tala Hydropower Plant",
+            "isCorrect": false
+          },
+          {
+            "text": "Chhukha Hydropower Plant",
+            "isCorrect": true
+          },
+          {
+            "text": "Kurichhu Hydropower Plant",
+            "isCorrect": false
+          },
+          {
+            "text": "Basochhu Hydropower Plant",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "When was the agreement with Government of India singed for the construction of Chhukha Hydroelectric project?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "April 23 1974",
+            "isCorrect": true
+          },
+          {
+            "text": "May 23 1974",
+            "isCorrect": false
+          },
+          {
+            "text": "June 23 1974",
+            "isCorrect": false
+          },
+          {
+            "text": "July 23 1974",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is the first energy source of light?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sun",
+            "isCorrect": true
+          },
+          {
+            "text": "Moon",
+            "isCorrect": false
+          },
+          {
+            "text": "Firewood",
+            "isCorrect": false
+          },
+          {
+            "text": "Lamps",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Musuem of light, General",
+    "description": "General Questions.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Whose figure is displayed at the hologram section?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "His Majesty The First Druk Gyalpo",
+            "isCorrect": false
+          },
+          {
+            "text": "His Majesty The Second Druk Gyalpo",
+            "isCorrect": false
+          },
+          {
+            "text": "His Majesty The Third Druk Gyalpo",
+            "isCorrect": true
+          },
+          {
+            "text": "His Majesty the Fourth Druk Gyalpo",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "By how many percentages makes the protected areas that do not permit hydropower plants to be built?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "90%",
+            "isCorrect": false
+          },
+          {
+            "text": "60%",
+            "isCorrect": false
+          },
+          {
+            "text": "75%",
+            "isCorrect": false
+          },
+          {
+            "text": "51%",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "As of 2020, what is the total installed capacity of Hydropower Plant?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "2,024 MW",
+            "isCorrect": false
+          },
+          {
+            "text": "1,560 MW",
+            "isCorrect": false
+          },
+          {
+            "text": "2,304 MW",
+            "isCorrect": false
+          },
+          {
+            "text": "2,326 MW",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What type of Hydropower scheme does the country use for electricity generation?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Pumped Storage scheme",
+            "isCorrect": false
+          },
+          {
+            "text": "Storage Scheme",
+            "isCorrect": false
+          },
+          {
+            "text": "Run-of-River Scheme",
+            "isCorrect": true
+          },
+          {
+            "text": "Reservoir scheme",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Where is Bhutan’s first solar and wind power plant?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Thimphu",
+            "isCorrect": false
+          },
+          {
+            "text": "Trashigang",
+            "isCorrect": false
+          },
+          {
+            "text": "Paro",
+            "isCorrect": false
+          },
+          {
+            "text": "Wangdue Phodrang",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What is the voltage level of transmission system used in Bhutan? You can choose 2 answers.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "33 kV",
+            "isCorrect": false
+          },
+          {
+            "text": "66 kV",
+            "isCorrect": true
+          },
+          {
+            "text": "11 kV",
+            "isCorrect": false
+          },
+          {
+            "text": "400 kV",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What name is given to the conductors used in Transmission & Distribution System?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Country",
+            "isCorrect": false
+          },
+          {
+            "text": "Birds",
+            "isCorrect": false
+          },
+          {
+            "text": "Metals",
+            "isCorrect": false
+          },
+          {
+            "text": "Animals",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "How many types of energy sources are there?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "text": "2",
+            "isCorrect": true
+          },
+          {
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which letter represents voltage?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "A",
+            "isCorrect": false
+          },
+          {
+            "text": "W",
+            "isCorrect": false
+          },
+          {
+            "text": "V",
+            "isCorrect": true
+          },
+          {
+            "text": "E",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A Kilowatt (KW) is equivalent to how many Watts?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "1500",
+            "isCorrect": false
+          },
+          {
+            "text": "1000",
+            "isCorrect": true
+          },
+          {
+            "text": "500",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Solar energy is what type of energy sources?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Renewable Energy",
+            "isCorrect": true
+          },
+          {
+            "text": "Non-renewable Energy",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]

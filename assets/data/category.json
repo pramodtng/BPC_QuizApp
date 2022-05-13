@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "History",
+    "imagePath": "assets/icons/category/history.png"
+  },
+  {
+    "id": 2,
+    "name": "Musuem of Light, General",
+    "imagePath": "assets/icons/category/general.png"
+  }
+]
